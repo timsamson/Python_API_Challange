@@ -2,7 +2,7 @@
 
 <h1>Weather and Ideal Vacation Data</h1>
 
-<h2>Intoduction</h2>
+<h2>Introduction</h2>
 
 Insert Intro here
 
@@ -35,8 +35,6 @@ Please use notebood titled:
 <h2>API Keys and Installation</h2>
 
 <h2>Observation and Analysis</h2>
-
-
 
 <h2> Scatter Plots </h2>
 
@@ -120,6 +118,12 @@ Southern Hemisphere | Wind Speed vs. Latitude
 The r-squared is : -0.08
 
 The coorelation between Wind Speed and latitude does not exsist. 
+
+<h2> VacationPY </H2>
+
+
+
+
 
 
 
