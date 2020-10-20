@@ -10,6 +10,8 @@ Insert Intro here
 
 <ul><li>Python 3.6</li>
 <li>Jupyter Notebook</li>
+<li>Open Weather API</li>
+<li>Google Maps API</li>
 <li>Pandas</li></ul>
 
 <h2>Dependencies</h2>
@@ -20,7 +22,7 @@ Insert Intro here
 <li>datetime</li>
 <li>time</li>
 <li>requests</li>
-<li>gmaps/li></ul>
+<li>gmaps</li></ul>
 
 <h2>General Notes</h2>
 
@@ -30,4 +32,6 @@ Please use notebood titled:
 <ul><li><b>WeatherPy.ipynb</b></li>
   <li><b>vacationPy.ipynb</b></li></ul>
   
+<h2>API Keys and Installation</h2>
+
 <h2>Observation and Analysis</h2>
