@@ -58,9 +58,9 @@ Please note that to run the code, the user will need to imput thier own api keys
 
 Northern Hemisphere | Max Temp vs. Latitude
 
-The r-squared is : 0.75
+The r-squared is : -0.88
 
-Temperature decreases as you move south from the equator. There is an weak linear coorelation.
+Temperature decreases as you move south from the equator. There is a strong linear coorelation.
 
 !["Southern Hemisphere | Max Temp vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Southern%20Hemisphere%20%7C%20Max%20Temp%20vs.%20Latitude%20Regression.png)
 
@@ -68,7 +68,7 @@ Southern Hemisphere | Max Temp vs. Latitude
 
 The r-squared is : 0.75
 
-Temperature decreases as you move north from the equator. There is a weak linear coorelation. 
+Temperature decreases as you move north from the equator. There is a strong linear coorelation. 
 
 <h3>Humidity</h3>
 
@@ -104,7 +104,7 @@ Southern Hemisphere | Cloudiness vs. Latitude
 
 The r-squared is : 0.15
 
-The coorelation between cloudiness and latitude does not exsist. 
+The coorelation between cloudiness and latitude is a weak coorelation. 
 
 <h3> Wind Speed</h3>
 
