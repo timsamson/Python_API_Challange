@@ -123,7 +123,7 @@ The coorelation between Wind Speed and latitude does not exsist.
 
 Google heatmap showing humidity data as a heatmap from previous exercise WeatherPy
 
-!["Humidity Heatmap"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/vacation_hotel_overlay.png)
+!["Humidity Heatmap"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/vacation_humidity_heatmap.png)
 
 Hotel overlay showing my most ideal vacation locations.
 
@@ -132,7 +132,7 @@ Hotel overlay showing my most ideal vacation locations.
 <li>Humidity less than 35%</li>
 <li>Temperature between 60 and 95 degress F. </li></ul>
 
-!["Hotel Overlay"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/vacation_humidity_heatmap.png)
+!["Hotel Overlay"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/vacation_hotel_overlay.png)
 
 
 
