@@ -104,7 +104,7 @@ Southern Hemisphere | Cloudiness vs. Latitude
 
 The r-squared is : 0.15
 
-The coorelation between cloudiness and latitude is a weak coorelation. 
+The coorelation between cloudiness and latitude does not exsisit. 
 
 <h3> Wind Speed</h3>
 
