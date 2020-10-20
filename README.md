@@ -40,7 +40,7 @@ Please use notebood titled:
 
 <h2> Scatter Plots </h2>
 
-!["Latitude Vs. Wind"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/City%20Latitude%20vs.%20Wind%20Speed.png)
+!["Latitude Vs. Wind"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20Wind%20Speed.png)
 
 !["Latitude Vs. Cloudiness (%)"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20Cloudiness.png)
 
