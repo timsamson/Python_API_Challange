@@ -35,3 +35,26 @@ Please use notebood titled:
 <h2>API Keys and Installation</h2>
 
 <h2>Observation and Analysis</h2>
+
+
+
+<h2> Scatter Plots </h2>
+
+!["Latitude Vs. Wind"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/City%20Latitude%20vs.%20Wind%20Speed.png)
+
+!["Latitude Vs. Cloudiness (%)"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20Cloudiness.png)
+
+!["Latitude Vs. Humidity (%)"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20Humidity.png)
+
+!["Latitude Vs. Max Temp"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20MAX%20Temperature.png)
+
+<h2> Linear Regression Plots </h2>
+
+!["Northern Hemisphere - Wind Speed (mph) vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20-%20Wind%20Speed%20(mph)%20vs.%20Latitude%20Regression.png)
+
+!["Northern Hemisphere | Cloudiness (%) vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Cloudiness%20(%25)%20vs.%20Latitude%20Regression.png)
+
+!["Northern Hemisphere | Humidity (%) vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Humidity%20(%25)%20vs.%20Latitude%20Regression.png)
+
+!["Northern Hemisphere | Max Temp vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Max%20Temp%20vs.%20Latitude%20Regression.png)
+
