@@ -2,7 +2,7 @@
 
 <h1>Weather and Ideal Vacation Data</h1>
 
-<h2>Intoduction</h2>
+<h2>Introduction</h2>
 
 Insert Intro here
 
@@ -36,11 +36,9 @@ Please use notebood titled:
 
 <h2>Observation and Analysis</h2>
 
-
-
 <h2> Scatter Plots </h2>
 
-!["Latitude Vs. Wind"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/City%20Latitude%20vs.%20Wind%20Speed.png)
+!["Latitude Vs. Wind"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20Wind%20Speed.png)
 
 !["Latitude Vs. Cloudiness (%)"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Latitude%20vs.%20Cloudiness.png)
 
@@ -120,6 +118,12 @@ Southern Hemisphere | Wind Speed vs. Latitude
 The r-squared is : -0.08
 
 The coorelation between Wind Speed and latitude does not exsist. 
+
+<h2> VacationPY </H2>
+
+
+
+
 
 
 
