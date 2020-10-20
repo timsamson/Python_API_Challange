@@ -58,3 +58,10 @@ Please use notebood titled:
 
 !["Northern Hemisphere | Max Temp vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Max%20Temp%20vs.%20Latitude%20Regression.png)
 
+!["Northern Hemisphere - Wind Speed (mph) vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20-%20Wind%20Speed%20(mph)%20vs.%20Latitude%20Regression.png)
+
+!["Northern Hemisphere | Cloudiness (%) vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Cloudiness%20(%25)%20vs.%20Latitude%20Regression.png)
+
+!["Northern Hemisphere | Humidity (%) vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Humidity%20(%25)%20vs.%20Latitude%20Regression.png)
+
+!["Northern Hemisphere | Max Temp vs. Latitude"](https://github.com/timsamson/Python_API_Challange/blob/main/Files/images/Northern%20Hemisphere%20%7C%20Max%20Temp%20vs.%20Latitude%20Regression.png)
