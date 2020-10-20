@@ -4,7 +4,10 @@
 
 <h2>Introduction</h2>
 
-Insert Intro here
+<h4>WeatherPY</h4>
+The Python API challange looks at random latitudes and longutudes to determine city locations. That data is then used to find the curretn weather (at the time of the API calls) from OpenWeather. The resulting data is then analyised with linear regression to determine if there is coorelation between four data points and thier location on with the Northern of Southern Hemisphere.
+<h4>VacationPY</h4>
+VacationPy then looks at teh Humidity data from the WeatherPY exercise and plots the data as a heatmap using Google Maps API. The data is additionally sorted via my ideal vacation location conditions as determined my me. Once the lolcation list is created, Google places API is called to determine the closest hotel to that location, if a location did not have a hotel within 5000 meters it was then dropped form the dataframe. The locations and names of the hotels were then overlayed onto the google heatmap as a layer. 
 
 <h2>Technologies</h2>
 
@@ -26,13 +29,15 @@ Insert Intro here
 
 <h2>General Notes</h2>
 
-Repo contains folder whith Jupyter notebooks and resources
-Please use notebood titled:
+Repo contains "Files" folder whith Jupyter notebooks and associated resources:
+Please use notebooks titled:
  
 <ul><li><b>WeatherPy.ipynb</b></li>
   <li><b>vacationPy.ipynb</b></li></ul>
   
 <h2>API Keys and Installation</h2>
+
+Please note that to run the code, the user will need to imput thier own api keys for both openweather and goodle maps in the file: api_keys.py. Failure to do so will rsult in errors in both notebooks. 
 
 <h2>Observation and Analysis</h2>
 
